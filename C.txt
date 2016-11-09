@@ -1,0 +1,1 @@
+Variavél do tipo inteira com mais bytes = long long int; lld.
