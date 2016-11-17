@@ -1,1 +1,3 @@
 Variavél do tipo inteira com mais bytes = long long int; lld.
+
+Transformar inteiro para string = sprintf(<string>, "%i", <inteiro>);
